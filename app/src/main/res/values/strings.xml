@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Jogo da Velha</string>
+    <string name="resetarjogo">Resetar Jogo</string>
+    <string name="empty_button">-</string>
 </resources>
